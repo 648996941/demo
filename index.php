@@ -1,4 +1,5 @@
 <?php
-echo 1;die;
+echo 'docker很简单'
 ?>
 
+source /.bash_profile
